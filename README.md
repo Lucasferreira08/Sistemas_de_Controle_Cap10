@@ -1,6 +1,7 @@
 # Sistemas de Controle – Capítulo 10
 
-Este repositório contém a apresentação referente ao **Capítulo 10 de Sistemas de Controle**, desenvolvida com base no livro de **Katsuhiko Ogata (Nise)**, abordando os principais conceitos de resposta em frequência, Diagramas de Bode e Critério de Nyquist.
+Este repositório contém a apresentação referente ao **Capítulo 10 de Sistemas de Controle**, desenvolvida com base no livro **Engenharia de Sistemas de Controle**, de **Norman S. Nise**, abordando os principais conceitos de resposta em frequência, Diagramas de Bode e Critério de Nyquist.
+
 
 ## Integrantes
 
