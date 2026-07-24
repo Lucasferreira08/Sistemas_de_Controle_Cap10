@@ -36,7 +36,13 @@ O trabalho aborda os principais conceitos de **Resposta em Frequência**, **Diag
 ## Materiais
 
 - 📄 **Slides da apresentação:** [Slides_Cap10.pdf](./Slides_Cap10.pdf)
-- 🎥 **Vídeo da apresentação:** https://youtu.be/TvsZY7kC4zA
+
+
+## Vídeo da Apresentação
+
+[![Assista à apresentação](https://img.youtube.com/vi/TvsZY7kC4zA/maxresdefault.jpg)](https://youtu.be/TvsZY7kC4zA)
+
+Ou acesse diretamente: https://youtu.be/TvsZY7kC4zA
 
 > Clique no link acima para assistir à apresentação completa no YouTube.
 
