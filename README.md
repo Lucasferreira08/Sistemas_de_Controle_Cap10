@@ -1,7 +1,10 @@
 # Sistemas de Controle – Capítulo 10
 
-Este repositório contém a apresentação referente ao **Capítulo 10 de Sistemas de Controle**, desenvolvida com base no livro **Engenharia de Sistemas de Controle**, de **Norman S. Nise**, abordando os principais conceitos de resposta em frequência, Diagramas de Bode e Critério de Nyquist.
+Este repositório contém o material da apresentação referente ao **Capítulo 10** do livro **Engenharia de Sistemas de Controle**, de **Norman S. Nise**.
 
+O trabalho aborda os principais conceitos de **Resposta em Frequência**, **Diagramas de Bode** e **Critério de Nyquist**, além de um exercício prático desenvolvido em Python utilizando o Google Colab.
+
+---
 
 ## Integrantes
 
@@ -9,17 +12,36 @@ Este repositório contém a apresentação referente ao **Capítulo 10 de Sistem
 - Rafael Emanuel Evangelista de Sousa
 - Yago Rodrigo Morato Marques Guirra
 
-## Resumo da Apresentação
+---
+
+## Conteúdo da Apresentação
 
 ### Rafael Emanuel Evangelista de Sousa
-Aborda as margens de estabilidade, resposta transitória, constantes de erro estático e a relação entre desempenho no domínio da frequência e no tempo.
+- Margens de estabilidade;
+- Resposta transitória;
+- Constantes de erro estático;
+- Relação entre desempenho no domínio da frequência e no domínio do tempo.
 
 ### Pedro Lucas Gomes Ferreira
-Explica os sistemas com atraso no tempo, técnicas de obtenção de funções de transferência e as etapas para estimação analítica de modelos.
+- Sistemas com atraso no tempo;
+- Técnicas para obtenção de funções de transferência;
+- Etapas para estimação analítica de modelos.
 
 ### Yago Rodrigo Morato Marques Guirra
-Exercício e parte prática em python utilizando google colab.
+- Resolução de exercício do Capítulo 10;
+- Implementação prática em Python utilizando o Google Colab.
 
-## Material
+---
 
-📄 **Slides da apresentação:** [Slides_Cap10.pdf](./Slides_Cap10.pdf)
+## Materiais
+
+- 📄 **Slides da apresentação:** [Slides_Cap10.pdf](./Slides_Cap10.pdf)
+- 🎥 **Vídeo da apresentação:** https://youtu.be/TvsZY7kC4zA
+
+> Clique no link acima para assistir à apresentação completa no YouTube.
+
+---
+
+## Referência
+
+NISE, Norman S. **Engenharia de Sistemas de Controle**. LTC.
