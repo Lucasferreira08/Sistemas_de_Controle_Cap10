@@ -11,14 +11,14 @@ Este repositório contém a apresentação referente ao **Capítulo 10 de Sistem
 
 ## Resumo da Apresentação
 
-### Yago Rodrigo Morato Marques Guirra
-Apresenta a introdução ao capítulo, explicando os conceitos de resposta em frequência, Diagramas de Bode e os fundamentos do Critério de Nyquist.
-
 ### Rafael Emanuel Evangelista de Sousa
 Aborda as margens de estabilidade, resposta transitória, constantes de erro estático e a relação entre desempenho no domínio da frequência e no tempo.
 
 ### Pedro Lucas Gomes Ferreira
 Explica os sistemas com atraso no tempo, técnicas de obtenção de funções de transferência e as etapas para estimação analítica de modelos.
+
+### Yago Rodrigo Morato Marques Guirra
+Exercício e parte prática em python utilizando google colab.
 
 ## Material
 
