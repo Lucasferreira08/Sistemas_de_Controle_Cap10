@@ -40,11 +40,11 @@ O trabalho aborda os principais conceitos de **Resposta em Frequência**, **Diag
 
 ## Vídeo da Apresentação
 
-[![Assista à apresentação](https://img.youtube.com/vi/TvsZY7kC4zA/maxresdefault.jpg)](https://youtu.be/TvsZY7kC4zA)
+[![Assista à apresentação](https://img.youtube.com/vi/TvsZY7kC4zA/maxresdefault.jpg)](https://drive.google.com/file/d/1VJCf3mQPd2bSkfHCptdhh3z9pUtgJv8q/view?usp=sharing)
 
-Ou acesse diretamente: https://youtu.be/TvsZY7kC4zA
+Ou acesse diretamente: https://drive.google.com/file/d/1VJCf3mQPd2bSkfHCptdhh3z9pUtgJv8q/view?usp=sharing
 
-> Clique no link acima para assistir à apresentação completa no YouTube.
+> Clique no link acima para assistir ou baixa.
 
 ---
 
